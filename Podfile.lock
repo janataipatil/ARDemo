@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - ObjectMapper (3.4.2)
+  - SwiftGifOrigin (1.7.0)
+  - SwiftyGif (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper (~> 5.2)
+  - Charts
+  - SwiftGifOrigin
+  - SwiftyGif
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Charts
+    - ObjectMapper
+    - SwiftGifOrigin
+    - SwiftyGif
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  SwiftyGif: a149bf84df23370592f3f075561ae02c8632a314
+
+PODFILE CHECKSUM: 2bda6d355446e8aaad0ec27c4dd78a6903919046
+
+COCOAPODS: 1.5.3
